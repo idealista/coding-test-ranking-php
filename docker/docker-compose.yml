@@ -1,0 +1,14 @@
+version: "3.7"
+services:
+  base-php:
+    build: php
+    ports:
+      - 8080:8080
+    volumes:
+      - ../:/var/www/
+    networks:
+      - base
+    command: symfony serve --port=8080
+
+networks:
+  base:
