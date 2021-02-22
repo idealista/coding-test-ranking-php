@@ -15,9 +15,6 @@
     "symfony/yaml": "*"
   },
   "require-dev": {
-    "symfony/browser-kit": "9999999-dev",
-    "symfony/css-selector": "9999999-dev",
-    "symfony/phpunit-bridge": "9999999-dev"
   },
   "config": {
     "optimize-autoloader": true,
@@ -28,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "App\\": "src"
+      "App\\": "src/"
     }
   },
   "autoload-dev": {
