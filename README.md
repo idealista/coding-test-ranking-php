@@ -29,7 +29,7 @@ Podrás ejecutar el proyecto utilizando la configuración de Docker que dejamos 
 
 **La persistencia de datos no forma parte del objetivo del reto**. Si no vas a usar el esqueleto que te proporcionamos, te sugerimos que la simplifiques tanto como puedas (con una base de datos embebida, "persistiendo" los objetos en memoria, usando un fichero...). **El diseño de una interfaz gráfica tampoco** forma parte del alcance del reto, por tanto no es necesario que la implementes.
 
-**Nota:** No estás obligado a usar el proyecto proporcionado. Si lo prefieres, puedes usar cualquier otro lenguaje, framework y/o librería. Incluso puedes prescindir de estos últimos si consideras que no son necesarios. A lo que más importancia damos es a tener un código limpio y de calidad.
+**Nota:** No estás obligado a usar el proyecto proporcionado. Si lo prefieres, puedes usar cualquier framework y/o librería. Incluso puedes prescindir de estos últimos si consideras que no son necesarios. A lo que más importancia damos es a tener un código limpio, de calidad y a las explicaciones que nos des sobre tus decisiones de diseño.  
 
 ### Requisitos mínimos
 
