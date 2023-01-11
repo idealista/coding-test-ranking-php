@@ -33,7 +33,7 @@ Podrás ejecutar el proyecto utilizando la configuración de Docker que dejamos 
 
 ### Requisitos mínimos
 
-A continuación se enumeran los requisitos mínimos para ejecutar el proyecto:
+A continuación se enumeran los requisitos mínimos para ejecutar el proyecto: 
 
 * PHP 8
 * Symfony Local Web Server o Nginx.
